@@ -1,0 +1,63 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/F2441998-7B3A-4737-BC09-0932326E6E5B/d/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=62773:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/F2441998-7B3A-4737-BC09-0932326E6E5B/d/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/Sahany/IdeaProjects/Escape'd/out/production/Escape'd Main
+When you open your eyes, you will find yourself in a foyer.
+Inside the foyer is a bench, a chest, an unlit candle, and a note which says “May my light show you the way.”
+There is a door to the north, but it is locked.
+You have 30 turns to escape from the room
+you can use these words:
+open, close, light, read, write, play, look, get, go
+along with several nouns
+door, room, bench, chest, candle, note, matches, shelves, book, pen, scroll, music, trumpet, piano, drum, lock
+and direction
+north, south, east, west
+Good Luck!
+you have 30 rounds left.
+Please enter your command
+
+open chest
+you have 29 rounds left.
+Please enter your command
+open chest
+the chest is open and you find matches in the chest
+you have 28 rounds left.
+Please enter your command
+get matches
+You get a box of matches.
+you have 27 rounds left.
+Please enter your command
+light candle
+The candle is lit. You heard a metal grinding sound from the north.
+you have 26 rounds left.
+Please enter your command
+open door
+The north door is open.
+you have 25 rounds left.
+Please enter your command
+go north
+Congratulation! You have left the foyer. On your way out, the door slammed and locked. You now find yourself in a library full of shelves of books. In the center of the room is a desk, which has a pen and a scroll on it. A door is on the north side wall waiting for you to open
+you have 24 rounds left.
+get pen
+Now you have a pen.
+you have 23 rounds left.
+write book
+you have 22 rounds left.
+open door
+Now you have a pen.
+you have 21 rounds left.
+go north
+Congratulation! You are now in the conservatory.There are three music instruments: a trumpet, a drum, and a piano.Good luck!
+you have 20 rounds left.
+play trumpet
+you have played the trumpet!
+you have 19 rounds left.
+play piano
+you have played the piano
+you have 18 rounds left.
+play drum
+you have played the drum
+you have 17 rounds left.
+open door
+The north door is open.
+you have 16 rounds left.
+go north
+
+Congratulations! You finish the roomyou have 15 rounds left.
